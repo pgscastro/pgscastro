@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there! 👋 Welcome to my GitHub Profile
 
-<!--
-**pgscastro/pgscastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate **Data Analyst** with a strong foundation in programming, data visualization, and analytics. I enjoy transforming data into actionable insights, solving complex problems, and continuously learning new technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🌍 Currently based in Canada 🇨🇦
+- 🎓 Holding a Bachelor's degree with expertise in data analytics
+- 💡 Enthusiastic about using data to make informed decisions and drive innovation
+
+---
+
+## 💻 Technical Skills
+
+### Programming Languages:
+- **Python**: Pandas, NumPy, SciPy, Matplotlib
+- **Java**
+- **C#**
+
+### Databases:
+- **SQL**
+- **PostgreSQL**
+
+### BI & Visualization Tools:
+- **Tableau**
+- **Power BI**
+
+---
+
+## 🌟 Let's Connect!
+
+- [LinkedIn](https://linkedin.com/in/your-linkedin-profile)
+- [Twitter](https://twitter.com/your-twitter-profile)
+- Email: your-email@example.com
+
+Feel free to explore my repositories and share feedback. Collaboration and learning together are always welcome! 
